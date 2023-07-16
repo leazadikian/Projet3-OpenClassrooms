@@ -8,8 +8,9 @@ Parcours Data Scientist - Projet 3 : Concevez une application au service de la s
 L'agence "Santé publique France" a lancé un appel à projets pour trouver des idées innovantes d’applications en lien avec l'alimentation. Nous souhaitons y participer et proposer une idée d’application.
 
 **Notre mission :**
-
-* Nettoyer le jeu de données,
+* Identifier une idée d’application.
+* Repérer des variables pertinentes pour les traitements à venir, et nécessaires pour notre idée d’application.
+* Nettoyer le jeu de données :
   * En mettant en évidence les éventuelles valeurs manquantes, avec au moins 3 méthodes de traitement adaptées aux variables concernées,
   * En identifiant et en quantifiant les éventuelles valeurs aberrantes de chaque variable.
 * Effectuer une analyse univariée pour chaque variable intéressante, afin de synthétiser son comportement.
